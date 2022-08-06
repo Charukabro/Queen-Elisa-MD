@@ -50,7 +50,7 @@ global.alive =`හායි 🙂 මම චාරුගෙ බොටා එය�
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+global.කොහොමද ඉතින් = `
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
